@@ -4,9 +4,6 @@ COLORS:
 Light green: #7ed56f
 Medium green: #55c57a
 Dark green: #28b485
-
-dark:#1A1423;
-
 */
 *{
   margin:0;
@@ -150,7 +147,6 @@ dark:#1A1423;
    animation: btnMoveIn 0.75s ease-out;
    animation-fill-mode: backwards;
  }
-
 
 
 
